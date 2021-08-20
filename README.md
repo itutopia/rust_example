@@ -2,6 +2,8 @@ Rust_example
 ======
 By ITUtopia
 
+[Rust官网](https://www.rust-lang.org/)
+
 Rust
 -
 Rust是一门系统(System)编程语言,专注于安全,尤其是并发安全，支持函数式和命令式以及泛型等编程范式的多范式语言。
